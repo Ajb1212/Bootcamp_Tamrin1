@@ -1,0 +1,15 @@
+C:\Users\moham\Desktop\Proj\Tamrin1\Tamrin1\bin\Debug\net6.0\Tamrin1.exe
+C:\Users\moham\Desktop\Proj\Tamrin1\Tamrin1\bin\Debug\net6.0\Tamrin1.deps.json
+C:\Users\moham\Desktop\Proj\Tamrin1\Tamrin1\bin\Debug\net6.0\Tamrin1.runtimeconfig.json
+C:\Users\moham\Desktop\Proj\Tamrin1\Tamrin1\bin\Debug\net6.0\Tamrin1.dll
+C:\Users\moham\Desktop\Proj\Tamrin1\Tamrin1\bin\Debug\net6.0\Tamrin1.pdb
+C:\Users\moham\Desktop\Proj\Tamrin1\Tamrin1\obj\Debug\net6.0\Tamrin1.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\Proj\Tamrin1\Tamrin1\obj\Debug\net6.0\Tamrin1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Desktop\Proj\Tamrin1\Tamrin1\obj\Debug\net6.0\Tamrin1.AssemblyInfoInputs.cache
+C:\Users\moham\Desktop\Proj\Tamrin1\Tamrin1\obj\Debug\net6.0\Tamrin1.AssemblyInfo.cs
+C:\Users\moham\Desktop\Proj\Tamrin1\Tamrin1\obj\Debug\net6.0\Tamrin1.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\Proj\Tamrin1\Tamrin1\obj\Debug\net6.0\Tamrin1.dll
+C:\Users\moham\Desktop\Proj\Tamrin1\Tamrin1\obj\Debug\net6.0\refint\Tamrin1.dll
+C:\Users\moham\Desktop\Proj\Tamrin1\Tamrin1\obj\Debug\net6.0\Tamrin1.pdb
+C:\Users\moham\Desktop\Proj\Tamrin1\Tamrin1\obj\Debug\net6.0\Tamrin1.genruntimeconfig.cache
+C:\Users\moham\Desktop\Proj\Tamrin1\Tamrin1\obj\Debug\net6.0\ref\Tamrin1.dll
